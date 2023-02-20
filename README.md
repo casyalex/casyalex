@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in coding.
+- 👀 I’m interested in TS.
 - 🌱 I’m currently learning AWS dev.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me casyalex@hotmail.com
